@@ -15,10 +15,12 @@ I've only retrieved the first 10 links from every page and a search depth of 5. 
 
 
 ### The Graph
-![](./Untitled (2).png)
+Some cool visualization.
+![]("./Untitled (2).png")
 
 
 ### The Connections
+Using Graphi, we can visualize and plot the graph in a cool way!
 ![](./dasdasdasd.png)
 
 
