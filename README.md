@@ -16,7 +16,7 @@ I've only retrieved the first 10 links from every page and a search depth of 5. 
 
 ### The Graph
 Some cool visualization.
-![]("./Untitled (2).png")
+![](./Untitled%20(2).png)
 
 
 ### The Connections
